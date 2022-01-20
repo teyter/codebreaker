@@ -1,0 +1,1 @@
+I write code for a bioinfo assignment which I later found out does the same thing as the python library function itertools.product
